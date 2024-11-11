@@ -26,11 +26,11 @@ int main()
 
             if(it==mp.end())
             {
-                cout<<"NO\n";
+                cout<<"NO" << endl;
             }
             else
             {
-                cout<<"YES\n";
+                cout<<"YES" << endl;
             }
         }
         else cout <<"NO" << endl;
